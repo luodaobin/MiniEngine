@@ -1,5 +1,0 @@
-D:\workspace\DotNetWork\DotNetWork\obj\Debug\ResolveAssemblyReference.cache
-D:\workspace\DotNetWork\DotNetWork\bin\Debug\DotNetWork.exe
-D:\workspace\DotNetWork\DotNetWork\bin\Debug\DotNetWork.pdb
-D:\workspace\DotNetWork\DotNetWork\obj\Debug\DotNetWork.exe
-D:\workspace\DotNetWork\DotNetWork\obj\Debug\DotNetWork.pdb
