@@ -1,3 +1,0 @@
-copy D:\workspace\magic_card_deluxe\server\MagicCard_Server\bin\MCEditor\MCEditor.exe \\192.168.1.184\Studio\MCD\Programming\tools\Server\MCEditor 
-copy D:\workspace\magic_card_deluxe\server\MagicCard_Server\bin\MCEditor\*.xrc \\192.168.1.184\Studio\MCD\Programming\tools\Server\MCEditor 
-copy D:\workspace\magic_card_deluxe\server\MagicCard_Server\bin\config\Localize.xml \\192.168.1.184\Studio\MCD\Programming\tools\Server\config 
