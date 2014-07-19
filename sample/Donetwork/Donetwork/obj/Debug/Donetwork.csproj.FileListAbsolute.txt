@@ -1,0 +1,5 @@
+D:\workspace\Donetwork\Donetwork\bin\Debug\Donetwork.exe
+D:\workspace\Donetwork\Donetwork\bin\Debug\Donetwork.pdb
+D:\workspace\Donetwork\Donetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Donetwork\Donetwork\obj\Debug\Donetwork.exe
+D:\workspace\Donetwork\Donetwork\obj\Debug\Donetwork.pdb
